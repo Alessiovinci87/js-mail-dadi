@@ -1,0 +1,19 @@
+h1 {
+    text-align: center;
+  }
+  
+  form {
+    text-align: center;
+    margin: 1.25rem auto;
+  }
+  
+  input[type="email"] {
+    padding: .3125rem;
+  }
+  
+  button {
+    padding: .3125rem .625rem;
+  }
+  
+ 
+  
