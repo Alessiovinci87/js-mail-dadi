@@ -15,5 +15,10 @@ h1 {
     padding: .3125rem .625rem;
   }
   
- 
+  #result-message {
+    text-align: center;
+    font-weight: bold;
+    margin-top: 1.25rem;
+  }
   
+
