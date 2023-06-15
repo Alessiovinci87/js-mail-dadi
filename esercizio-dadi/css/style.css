@@ -1,0 +1,20 @@
+body {
+  background-color: aquamarine;
+  font-family: Arial, sans-serif;
+  text-align: center;
+  padding: 1.25rem;
+  
+}
+
+h1 {
+  color: lightcoral;
+}
+
+#result {
+  background-color: lightgreen;
+  border: .0625rem solid black;
+  padding: .625rem;
+  margin: 1.25rem auto;
+  max-width: 18.75rem;
+
+}
